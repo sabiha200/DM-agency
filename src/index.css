@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@utility container {
+  margin-inline: auto;
+  
+}
+@theme {
+    --color-brand:#082859;  
+}
